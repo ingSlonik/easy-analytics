@@ -1,4 +1,7 @@
 node_modules/
-dist/
 .DS_Store
 package-lock.json
+
+# Build artifacts in root
+/*.js
+/*.d.ts

@@ -3,7 +3,7 @@
 A super minimalist, lite & easy, independent analytics tracker & visualizer for your custom web applications.
 
 Easy Analytics consists of three parts that work seamlessly together:
-1. **Client**: A lightweight browser script (~6 KB uncompressed, ~1.7 KB gzipped) tracking basic metrics (screens, duration, referrers, devices) without relying exclusively on tracking cookies.
+1. **Client**: A lightweight browser script (~1.7 KB gzipped) tracking basic metrics (screens, duration, referrers, devices) without relying exclusively on tracking cookies.
 2. **Server**: Server-side integration storing the incoming logs effortlessly using `easy-db-node`.
 3. **React**: Helpful hooks and a minimalist unstyled UI component (`GroupTable`) for you to build your own dashboard quickly.
 

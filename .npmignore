@@ -1,6 +1,4 @@
-*.ts
-*.tsx
-!dist/*.d.ts
+src/
 tsconfig.json
 .gitignore
 .DS_Store
