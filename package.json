@@ -1,6 +1,6 @@
 {
   "name": "easy-analytics",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Minimalist analytics tracker and visualizer with client and server integration.",
   "main": "server.js",
   "types": "common.d.ts",
